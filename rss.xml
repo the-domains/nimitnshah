@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[nimitnshah]]></title>
         <description><![CDATA[nimitnshah]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nimitnshah/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 09:09:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 09:11:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nimitnshah/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e81638-3b55-4e08-b37c-17ff1848645f.jpg">]]></description>
-            <link>undefineda-video-essay-on-one-of-my-favourite-films-the-prestige/index.html</link>
+            <link>https://thegrid.ai/nimitnshah/a-video-essay-on-one-of-my-favourite-films-the-prestige/index.html</link>
             <guid isPermaLink="false">8ff2a237-b42c-43f5-b151-0d75cf0a6b6c</guid>
-            <pubDate>Thu, 21 Apr 2016 09:09:42 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 09:10:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
